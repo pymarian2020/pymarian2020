@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pymarian2020
 - 👀 I’m interested in Web Development, Data Science, and Machine learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything Python related
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me pymarian2020@gmail.com
 
 <!---
